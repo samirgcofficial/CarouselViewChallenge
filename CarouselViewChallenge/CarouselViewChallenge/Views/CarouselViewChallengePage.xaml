@@ -126,7 +126,6 @@
          <Label   TextColor="White"  Text="{Binding Title}"/>
                         <Label TextColor="White" Text="{Binding Date}" />
          <Label/>
-
       </StackLayout>
     <StackLayout Grid.Row="1">
              <Frame Padding="0"
